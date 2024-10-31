@@ -1,5 +1,4 @@
 # CloudVerse
-Software para serviços Serverless
 
 ![image](https://github.com/user-attachments/assets/818735ee-f5d5-494a-a4ac-f3c467c2529c)
 
